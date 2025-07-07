@@ -15,7 +15,9 @@
 Soy un apasionado por la tecnología y la programación, con enfoque en el desarrollo web moderno y buenas prácticas.  
 Actualmente trabajo como **freelancer fullstack**, construyendo interfaces intuitivas y backends robustos usando **React, .NET, MySQL y más**.
 
-Me considero una persona **autodidacta** 🤓, con **alta capacidad de resolución de problemas** 🧠 y habilidades para trabajar en equipo 🤝.
+Soy una persona **autodidacta** 🤓, con **alta capacidad de resolución de problemas** 🧠 y habilidades para trabajar en equipo 🤝.  
+  
+Actualmente estoy en busqueda de un trabajo que me traiga experiencia y nuevos desafíos, como también una oportunidad de crecimiento.
 
 ---
 
@@ -36,9 +38,18 @@ Me considero una persona **autodidacta** 🤓, con **alta capacidad de resoluci�
 
 ## 🧰 Proyectos Destacados
 
-- **💼 [Sistema de gestión de cartas](https://github.com/valentinodev/cartas-app)**  
+- **💼 [Sistema de gestión de cartas](https://github.com/ValentinoZucchellaPaz/CursoFrontExtrados)**  
   App fullstack con login JWT, panel de usuario y visualización de cartas  
-  React + Redux Toolkit + .NET + MySQL + MUI Joy UI
+  React + Redux Toolkit + .NET + MySQL + MUI Joy UI  
+
+- **💼 [Agenda](https://github.com/ValentinoZucchellaPaz/AGENDA-TU-SEMANA-REACT)**  
+  App frontend con login, CRUD de tareas y almacenamiento en base de datos.  
+  React + Chakra UI + Firebase
+  ![Demo](https://agenda-tu-semana-react.vercel.app/)
+
+- **💼 [Landing Page Minimalista](https://www.wiwito.com/)**  
+  Landing page (client side) para la empresa de subtitulado Wiwito
+  React + Tailwind
 
 ---
 
