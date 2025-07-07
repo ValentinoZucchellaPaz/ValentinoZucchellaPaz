@@ -48,7 +48,7 @@ Actualmente estoy en busqueda de un trabajo que me traiga experiencia y nuevos d
   [Demo](https://agenda-tu-semana-react.vercel.app/)
 
 - **💼 [Landing Page Minimalista](https://www.wiwito.com/)**  
-  Landing page (client side) para la empresa de subtitulado Wiwito
+  Landing page (client side) para la empresa de subtitulado Wiwito  
   React + Tailwind
 
 ---
