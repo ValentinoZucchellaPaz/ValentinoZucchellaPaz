@@ -2,9 +2,9 @@
 
 🎓 Estudiante de Ingeniería en Computación  
 💻 Desarrollador Fullstack (React + .NET)  
-🌍 Buenos Aires, Argentina  
-📫 Contacto: [valentino.dev@gmail.com](mailto:valentino.dev@gmail.com)  
-🌐 [Portfolio Web](https://valentino.dev) | [LinkedIn](https://linkedin.com/in/valentinodev) | [GitHub](https://github.com/valentinodev)
+🌍 Córdoba, Argentina  
+📫 Contacto: [vzucchellapaz@gmail.com](mailto:vzucchellapaz@gmail.com)  
+🌐 [Portfolio Web](https://portfolio-valentinozucchellapazs-projects.vercel.app/) | [LinkedIn](https://linkedin.com/in/valentino-zucchella-paz-7230b0243/) | [GitHub](https://github.com/ValentinoZucchellaPaz)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ValentinoZucchellaPaz&color=brightgreen&style=flat)
 
@@ -39,9 +39,6 @@ Me considero una persona **autodidacta** 🤓, con **alta capacidad de resoluci�
 - **💼 [Sistema de gestión de cartas](https://github.com/valentinodev/cartas-app)**  
   App fullstack con login JWT, panel de usuario y visualización de cartas  
   React + Redux Toolkit + .NET + MySQL + MUI Joy UI
-
-- **🎮 Clasificador de contenido multimedia**  
-  Clasificación automatizada de series y películas para plataformas de streaming
 
 ---
 
