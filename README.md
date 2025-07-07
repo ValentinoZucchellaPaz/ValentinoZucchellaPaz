@@ -44,8 +44,8 @@ Actualmente estoy en busqueda de un trabajo que me traiga experiencia y nuevos d
 
 - **💼 [Agenda](https://github.com/ValentinoZucchellaPaz/AGENDA-TU-SEMANA-REACT)**  
   App frontend con login, CRUD de tareas y almacenamiento en base de datos.  
-  React + Chakra UI + Firebase
-  ![Demo](https://agenda-tu-semana-react.vercel.app/)
+  React + Chakra UI + Firebase  
+  [Demo](https://agenda-tu-semana-react.vercel.app/)
 
 - **💼 [Landing Page Minimalista](https://www.wiwito.com/)**  
   Landing page (client side) para la empresa de subtitulado Wiwito
