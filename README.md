@@ -1,5 +1,6 @@
 <details open>
 <summary>🇬🇧 Read in english</summary>
+
 # 👋 Hi there! I'm Valentino
 
 🎓 Computer Engineering Student  
@@ -63,6 +64,7 @@ Feel free to reach out if you want to build something awesome together! 🚀
 
 <details>
 <summary>🇪🇸 Leer en español</summary>
+
 # 👋 ¡Hola! Soy Valentino
 
 🎓 Estudiante de Ingeniería en Computación  
